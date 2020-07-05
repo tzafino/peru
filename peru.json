@@ -149,7 +149,7 @@
         {
             "number":"605",
             "name":"Sonorama",
-            "logo":"343_2020_61_03_11_14_55_364.png",
+            "logo":"Sonorama.jpg",
             "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_SON_S01.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -177,7 +177,7 @@
         {
             "number":"598",
             "name":"Radio San Borja (San Borja)",
-            "logo":"9419-2020-03-05.png",
+            "logo":"Radio San Borja.png",
             "streamUrl":"https://5949aa132c8fb.streamlock.net:554/ipradiosanborja/livesanborjaradio/playlist.m3u8",
             "yourmuzeId":"0","state":"1"
         },
@@ -191,7 +191,7 @@
         {
             "number":"595",
             "name":"Radio Marañón (Jaén)",
-            "logo":"8043-2020-03-05.jpg",
+            "logo":"Radio Marañón.png",
             "streamUrl":"https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7112/;",
             "yourmuzeId":"0","state":"1"
         },
@@ -205,126 +205,126 @@
         {
             "number":"593",
             "name":"Radio Esfera",
-            "logo":"890_2020_61_03_11_15_00_103.png",
+            "logo":"Radio Esfera.jpg",
             "streamUrl":"http://oyotunstream.com:7360/;stream",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"592",
             "name":"Radio El cumbianchero",
-            "logo":"248_2020_61_03_11_15_00_065.png",
+            "logo":"Radio El cumbianchero.png",
             "streamUrl":"http://node-03.zeno.fm/sfmhktdz7qzuv?rj-ttl=5&rj-tok=AAABcq7Ik5MAvX24JdGBoMsUpw",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"591",
             "name":"Studio 99",
-            "logo":"362_2020_61_03_11_14_54_630.png",
+            "logo":"Studio 99.png",
             "streamUrl":"http://node-34.zeno.fm/hrhe7ncm65quv?rj-ttl=5&rj-tok=AAABcq7JhIkAyFSz7D-D0Hs5qQ",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"590",
             "name":"Generación Kpop",
-            "logo":"429_2020_61_03_11_14_54_620.png",
+            "logo":"Generación Kpop.png",
             "streamUrl":"http://192.99.14.225:9962/;",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"589",
             "name":"Radio Lima 89",
-            "logo":"899_2020_61_03_11_14_54_613.png",
+            "logo":"Radio Lima 89.png",
             "streamUrl":"http://node-20.zeno.fm/mh3hgbuxr5quv.aac?rj-ttl=5&rj-tok=AAABcq7UUHsAJ0RVexNgtgQeKw",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"588",
             "name":"Radio Hurakan",
-            "logo":"124_2020_61_03_11_14_54_319.png",
+            "logo":"Radio Hurakan.png",
             "streamUrl":"http://radio.lucarhost.com:8004/stream",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"587",
             "name":"Radio TV Santo Tomas",
-            "logo":"819_2020_61_03_11_14_54_471.png",
+            "logo":"Radio TV Santo Tomas.png",
             "streamUrl":"http://node-12.zeno.fm/8132d2rymrruv?rj-ttl=5&rj-tok=AAABcq7VlpkAFWhw4nFjrjbtEA",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"586",
             "name":"Radio Angel",
-            "logo":"535_2020_61_03_11_14_54_457.png",
+            "logo":"Radio Angel.jpg",
             "streamUrl":"http://node-07.zeno.fm/y116c3v1tmzuv?rj-ttl=5&rj-tok=AAABcq7WUEkAuHxxkJKnAQrozA",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"585",
             "name":"Radio Imperio Solar",
-            "logo":"26_2020_61_03_11_14_54_457.png",
+            "logo":"Radio Imperio Solar.jpg",
             "streamUrl":"http://node-22.zeno.fm/vq6u3x2qtbruv?rj-ttl=5&rj-tok=AAABcq7XBaIAiq8FpJSJMRyygA",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"584",
             "name":"Radio Star",
-            "logo":"913_2020_61_03_11_14_54_452.png",
+            "logo":"Radio Star.jpg",
             "streamUrl":"http://node-12.zeno.fm/mmdbr61v1qruv?rj-ttl=5&rj-tok=AAABcq7Xp70A6H8bMm6Yi-ZiJQ",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"581",
             "name":"Radio Estación X 102.1 FM",
-            "logo":"695_2020_61_03_11_14_54_178.png",
+            "logo":"Radio Estación.jpg",
             "streamUrl":"http://node-32.zeno.fm/u5tsh7gucrruv?rj-ttl=5&rj-tok=AAABcq7a5CAAqtubkkXz_SsCmA",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"580",
             "name":"Radio Doble C 95.5 Fm",
-            "logo":"571_2020_61_03_11_14_54_166.png",
+            "logo":"Radio Doble.png",
             "streamUrl":"http://node-08.zeno.fm/6b8s5qtfgrruv?rj-ttl=5&rj-tok=AAABcq7bLScAtYASfaVqbqH7NQ",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"579",
             "name":"Radio Planicie Peru",
-            "logo":"211_2020_61_03_11_14_54_164.png",
+            "logo":"Radio Planicie Peru.png",
             "streamUrl":"http://node-13.zeno.fm/cn5q23pum9duv?rj-ttl=5&rj-tok=AAABcq7bbnoAq9fvFOnKFeuUvA",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"577",
             "name":"Radio Stereo Grande",
-            "logo":"780_2020_61_03_11_14_54_172.png",
+            "logo":"Radio Stereo Grande.jpg",
             "streamUrl":"http://node-16.zeno.fm/tqeceygk9mruv?rj-ttl=5&rj-tok=AAABcq7cSTUAa1WzCL4_ZxdRcQ",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"576",
             "name":"ShadyBeer Radio",
-            "logo":"809_2020_61_03_11_14_54_170.png",
+            "logo":"ShadyBeer Radio.png",
             "streamUrl":"http://node-32.zeno.fm/mkpe3p40dnzuv?rj-ttl=5&rj-tok=AAABcq7ch5oAGMAUMAk-xP64ug",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"575",
             "name":"Xtacion Radio",
-            "logo":"205_2020_61_03_11_14_54_166.png",
+            "logo":"ggg.png",
             "streamUrl":"http://node-20.zeno.fm/emtg49akrqzuv?rj-ttl=5&rj-tok=AAABcq7cwTYA4CApd_CKBU2EDg",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"573",
             "name":"Radio Onda Azul",
-            "logo":"826_2020_61_03_11_14_54_156.png",
+            "logo":"Radio Onda Azul.jpg",
             "streamUrl":"http://167.114.118.120:7160/;",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"572",
             "name":"Radio Manantial De Vida",
-            "logo":"429_2020_61_03_11_14_48_930.png",
+            "logo":"Radio Manantial De Vida.png",
             "streamUrl":"http://node-33.zeno.fm/vfv3yxtraeruv?rj-ttl=5&rj-tok=AAABcq7d_Y4AlxjVjf6JCQS6FA",
             "yourmuzeId":"0","state":"1"
         },
@@ -940,7 +940,7 @@
         {
             "number":"461",
             "name":"Radio Maria",
-            "logo":"136_2020_61_03_11_14_17_154.png",
+            "logo":"radio Maria.jpg",
             "streamUrl":"http://dreamsiteradiocp4.com:8020/stream.mp3",
             "yourmuzeId":"0","state":"1"
         },
