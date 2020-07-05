@@ -2,7 +2,7 @@
         {
             "number":"635",
             "name":"Radio RPP Noticias",
-            "logo":"766_2020_61_03_11_14_05_432.png",
+            "logo":"radio rpp noticias.jpg",
             "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -93,7 +93,7 @@
         {
             "number":"620",
             "name":"Radio Felicidad",
-            "logo":"6350-2020-03-05.jpg",
+            "logo":"Radio Felicidad.jpg",
             "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDADAAC.aac?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime",
             "yourmuzeId":"0","state":"1"
         },
@@ -127,8 +127,8 @@
         },
         {
             "number":"608",
-            "name":"Radio Ovación",
-            "logo":"4896-2020-03-05.jpg",
+            "name":"Radio Ovación(Lima)",
+            "logo":"Radio Ovación.jpg",
             "streamUrl":"https://5949aa132c8fb.streamlock.net:554/ipradioovacion1/liveovacion1radio/playlist.m3u8",
             "yourmuzeId":"0","state":"1"
         },
