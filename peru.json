@@ -1,32 +1,11 @@
 {"success":true,"message":"","radios":[
 
-        {
-            "number":"640",
-            "name":"Radio RPP Noticias",
-            "logo":"radio rpp noticias.jpg",
-            "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3",
-            "yourmuzeId":"0","state":"1"
-        },
-        
-         {
-            "number":"639",
-            "name":"Radio RPP Noticias",
-            "logo":"radio rpp noticias.jpg",
-            "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3",
-            "yourmuzeId":"0","state":"1"
-        },
-       {
-            "number":"638",
-            "name":"Radio RPP Noticias",
-            "logo":"radio rpp noticias.jpg",
-            "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3",
-            "yourmuzeId":"0","state":"1"
-        },
+      
        {
             "number":"637",
-            "name":"Radio RPP Noticias",
-            "logo":"radio rpp noticias.jpg",
-            "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3",
+            "name":"Radio Santa Rosa (Lima)",
+            "logo":"Radio Santa Rosa.png",
+            "streamUrl":"https://securestream.conectarhosting.com:8136/live",
             "yourmuzeId":"0","state":"1"
         },
         
@@ -37,18 +16,6 @@
             "streamUrl":"http://c22.radioboss.fm:8100/stream",
             "yourmuzeId":"0","state":"1"
         },        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         
         
         
@@ -75,7 +42,7 @@
         },
         {
             "number":"631",
-            "name":"La Zona",
+            "name":"La Zona Dj",
             "logo":"571_2020_61_03_11_14_11_513.png",
             "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAZONA_SC",
             "yourmuzeId":"0","state":"1"
