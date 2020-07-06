@@ -108,13 +108,7 @@
             "streamUrl":"http://167.114.118.120:7448/;",
             "yourmuzeId":"0","state":"1"
         },
-        {
-            "number":"626",
-            "name":"Radio Oasis",
-            "logo":"469_2020_61_03_11_14_05_280.png",
-            "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac",
-            "yourmuzeId":"0","state":"1"
-        },
+        
         {
             "number":"625",
             "name":"Radiomar",
