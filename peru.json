@@ -87,13 +87,7 @@
             "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MODAAC.aac",
             "yourmuzeId":"0","state":"1"
         },
-        {
-            "number":"629",
-            "name":"Radio Corazon",
-            "logo":"869_2020_61_03_11_14_11_512.png",
-            "streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CORAZON.mp3",
-            "yourmuzeId":"0","state":"1"
-        },
+      
         {
             "number":"628",
             "name":"Onda Cero",
